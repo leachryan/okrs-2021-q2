@@ -16,3 +16,5 @@
 
 [Medium: Infix Notation - Kotlin](https://agrawalsuneet.medium.com/infix-notation-kotlin-c3f0786cadb3)
 
+[Kotlin Docs: Infix Notation](https://kotlinlang.org/docs/functions.html#infix-notation)
+
