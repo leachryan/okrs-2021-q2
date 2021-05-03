@@ -18,3 +18,7 @@
 
 [Kotlin Docs: Infix Notation](https://kotlinlang.org/docs/functions.html#infix-notation)
 
+[Baeldung Docs: Infix Functions in Kotlin](https://www.baeldung.com/kotlin/infix-functions)
+
+
+
