@@ -21,3 +21,15 @@
 [Baeldung Docs: Infix Functions in Kotlin](https://www.baeldung.com/kotlin/infix-functions)
 
 [Demo Project](https://github.com/leachryan/kotlin-infix-notation-demo)
+
+### Generics and inline functions
+
+[Baeldung Docs: Inline Functions](https://www.baeldung.com/kotlin/inline-functions)
+
+[Typealias.com: Variance Annotation](https://typealias.com/concepts/variance-annotation/)
+
+[Typealias.com: The Ins and Outs of Generic Variance in Kotlin](https://typealias.com/guides/ins-and-outs-of-generic-variance/)
+
+[Kotlin Docs: Generics: in, out, where](https://kotlinlang.org/docs/generics.html)
+
+[Medium: Kotlin Covariance and Contravariance](https://medium.com/kotlin-thursdays/introduction-to-kotlin-generics-9d18d3719e1d)
