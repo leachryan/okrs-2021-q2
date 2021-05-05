@@ -33,3 +33,8 @@
 [Kotlin Docs: Generics: in, out, where](https://kotlinlang.org/docs/generics.html)
 
 [Medium: Kotlin Covariance and Contravariance](https://medium.com/kotlin-thursdays/introduction-to-kotlin-generics-9d18d3719e1d)
+
+### Scope functions
+
+[Kotlin Docs: Scope functions](https://kotlinlang.org/docs/scope-functions.html)
+
