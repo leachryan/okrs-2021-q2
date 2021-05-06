@@ -38,3 +38,6 @@
 
 [Kotlin Docs: Scope functions](https://kotlinlang.org/docs/scope-functions.html)
 
+[Baeldung Docs: Kotlin Scope Functions](https://www.baeldung.com/kotlin/scope-functions)
+
+[Medium: Kotlin Demystified Scope Functions](https://medium.com/androiddevelopers/kotlin-demystified-scope-functions-57ca522895b1)
