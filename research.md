@@ -41,3 +41,9 @@
 [Baeldung Docs: Kotlin Scope Functions](https://www.baeldung.com/kotlin/scope-functions)
 
 [Medium: Kotlin Demystified Scope Functions](https://medium.com/androiddevelopers/kotlin-demystified-scope-functions-57ca522895b1)
+
+## Backend Tooling Resources
+
+### Gradle
+
+[Gradle Guides: Sample Kotlin Project](https://docs.gradle.org/current/samples/sample_building_kotlin_applications.html)
